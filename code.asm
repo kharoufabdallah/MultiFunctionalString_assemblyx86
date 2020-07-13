@@ -1,4 +1,4 @@
-.model tiny     ; By: Abdallah Kharouf 1183328 . To : Dr. Abualseoud Hanani 
+.model tiny     ; By: Abdallah Kharouf 
                 ; note: executing all operations in same time may generate some conflict when changing to capital or to small then to count
                  
                                  
